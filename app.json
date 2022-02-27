@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "aquariux",
+    "slug": "aquariux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "aquariux"
+}
